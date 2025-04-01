@@ -1,4 +1,5 @@
-Rainfall Classification Project
+##Rainfall Classification Project##
+
 Overview
 This project implements a binary classification system to predict rainfall occurrence ("will it rain or not"). Multiple machine learning models were evaluated to determine the optimal approach for precipitation prediction.
 Model Performance
