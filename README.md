@@ -44,9 +44,3 @@ The Random Forest Classifier achieved the highest accuracy (87.50%), suggesting 
 - Exploration of additional meteorological data sources
 - Deployment of the model as a web service for real-time prediction
 - Investigation of imbalanced learning techniques if class distribution is skewed
-
-## License
-[Insert your chosen license here]
-
-## Contact
-[Insert your contact information here]
